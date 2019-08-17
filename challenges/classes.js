@@ -36,7 +36,7 @@ const cuboid1 = new CuboidMaker1({
 });
 
 const cube = new CubeMaker({
-    length: 5,
+    length: 12,
     width: 12,
     height: 12
 })
